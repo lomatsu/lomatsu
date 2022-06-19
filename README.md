@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lomatsu
 - 👀 I’m interested in NodeJS, React, React Native, Typescript, Python.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning AWS and CI/CD.
 - 📫 My email is 'lauroomatsu@gmail.com'.
 
 <!---
